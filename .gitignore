@@ -1,0 +1,10 @@
+/vendor
+/composer.lock
+/.phpunit.cache
+/.idea
+/.vscode
+*.cache
+.phpunit.result.cache
+api-1.json
+api-1*.json
+_parse_*.js
